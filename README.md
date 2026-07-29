@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nakshjain/DSA-Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nakshjain/DSA-Learning/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nakshjain/DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/nakshjain/DSA-Learning/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/nakshjain/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/nakshjain/DSA-Learning/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/nakshjain/DSA-Learning/tree/master/0853-car-fleet) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nakshjain/DSA-Learning/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/nakshjain/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/nakshjain/DSA-Learning/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/nakshjain/DSA-Learning/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nakshjain/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/nakshjain/DSA-Learning/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/nakshjain/DSA-Learning/tree/master/0547-number-of-provinces) |
@@ -220,9 +223,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nakshjain/DSA-Learning/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/nakshjain/DSA-Learning/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/nakshjain/DSA-Learning/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nakshjain/DSA-Learning/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
