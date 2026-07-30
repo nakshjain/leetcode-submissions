@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/nakshjain/DSA-Learning/tree/master/0733-flood-fill) |
 | [0853-car-fleet](https://github.com/nakshjain/DSA-Learning/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/nakshjain/DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/nakshjain/DSA-Learning/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/nakshjain/DSA-Learning/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/nakshjain/DSA-Learning/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/nakshjain/DSA-Learning/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/nakshjain/DSA-Learning/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/nakshjain/DSA-Learning/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/nakshjain/DSA-Learning/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/nakshjain/DSA-Learning/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
