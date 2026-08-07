@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nakshjain/DSA-Learning/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nakshjain/DSA-Learning/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/nakshjain/DSA-Learning/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nakshjain/DSA-Learning/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nakshjain/DSA-Learning/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nakshjain/DSA-Learning/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nakshjain/DSA-Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nakshjain/DSA-Learning/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/nakshjain/DSA-Learning/tree/master/0079-word-search) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Stack
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nakshjain/DSA-Learning/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -230,11 +233,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nakshjain/DSA-Learning/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nakshjain/DSA-Learning/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/nakshjain/DSA-Learning/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nakshjain/DSA-Learning/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nakshjain/DSA-Learning/tree/master/0090-subsets-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nakshjain/DSA-Learning/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/nakshjain/DSA-Learning/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/nakshjain/DSA-Learning/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/nakshjain/DSA-Learning/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/nakshjain/DSA-Learning/tree/master/0994-rotting-oranges) |
