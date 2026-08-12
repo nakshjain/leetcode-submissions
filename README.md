@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nakshjain/DSA-Learning/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nakshjain/DSA-Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nakshjain/DSA-Learning/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/nakshjain/DSA-Learning/tree/master/0152-maximum-product-subarray) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nakshjain/DSA-Learning/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/nakshjain/DSA-Learning/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/nakshjain/DSA-Learning/tree/master/0079-word-search) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Stack
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nakshjain/DSA-Learning/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/nakshjain/DSA-Learning/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nakshjain/DSA-Learning/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/nakshjain/DSA-Learning/tree/master/0078-subsets) |
@@ -290,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/nakshjain/DSA-Learning/tree/master/0322-coin-change) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nakshjain/DSA-Learning/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
