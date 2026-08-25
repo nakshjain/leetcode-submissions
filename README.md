@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/nakshjain/DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/nakshjain/DSA-Learning/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nakshjain/DSA-Learning/tree/master/1020-number-of-enclaves) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/nakshjain/DSA-Learning/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/nakshjain/DSA-Learning/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nakshjain/DSA-Learning/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/nakshjain/DSA-Learning/tree/master/0141-linked-list-cycle) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/nakshjain/DSA-Learning/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
 |  |
 | ------- |
