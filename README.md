@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nakshjain/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/nakshjain/DSA-Learning/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/nakshjain/DSA-Learning/tree/master/0518-coin-change-ii) |
+| [0605-can-place-flowers](https://github.com/nakshjain/DSA-Learning/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/nakshjain/DSA-Learning/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/nakshjain/DSA-Learning/tree/master/0733-flood-fill) |
 | [0853-car-fleet](https://github.com/nakshjain/DSA-Learning/tree/master/0853-car-fleet) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nakshjain/DSA-Learning/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/nakshjain/DSA-Learning/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
 | ------- |
