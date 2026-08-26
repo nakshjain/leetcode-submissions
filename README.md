@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nakshjain/DSA-Learning/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nakshjain/DSA-Learning/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/nakshjain/DSA-Learning/tree/master/0079-word-search) |
+| [0290-word-pattern](https://github.com/nakshjain/DSA-Learning/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Stack
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/nakshjain/DSA-Learning/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nakshjain/DSA-Learning/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/nakshjain/DSA-Learning/tree/master/0141-linked-list-cycle) |
+| [0290-word-pattern](https://github.com/nakshjain/DSA-Learning/tree/master/0290-word-pattern) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nakshjain/DSA-Learning/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
 |  |
