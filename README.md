@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nakshjain/DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/nakshjain/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/nakshjain/DSA-Learning/tree/master/0295-find-median-from-data-stream) |
+| [1768-merge-strings-alternately](https://github.com/nakshjain/DSA-Learning/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/nakshjain/DSA-Learning/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/nakshjain/DSA-Learning/tree/master/1143-longest-common-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/nakshjain/DSA-Learning/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
