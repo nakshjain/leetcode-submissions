@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/nakshjain/DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/nakshjain/DSA-Learning/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nakshjain/DSA-Learning/tree/master/1020-number-of-enclaves) |
+| [1929-concatenation-of-array](https://github.com/nakshjain/DSA-Learning/tree/master/1929-concatenation-of-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nakshjain/DSA-Learning/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -320,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nakshjain/DSA-Learning/tree/master/0207-course-schedule) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/nakshjain/DSA-Learning/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
