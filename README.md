@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/nakshjain/DSA-Learning/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/nakshjain/DSA-Learning/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/nakshjain/DSA-Learning/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/nakshjain/DSA-Learning/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/nakshjain/DSA-Learning/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/nakshjain/DSA-Learning/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/nakshjain/DSA-Learning/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -325,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/nakshjain/DSA-Learning/tree/master/1929-concatenation-of-array) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/nakshjain/DSA-Learning/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
