@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/nakshjain/DSA-Learning/tree/master/0079-word-search) |
 | [0290-word-pattern](https://github.com/nakshjain/DSA-Learning/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1021-remove-outermost-parentheses](https://github.com/nakshjain/DSA-Learning/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/nakshjain/DSA-Learning/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nakshjain/DSA-Learning/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0853-car-fleet](https://github.com/nakshjain/DSA-Learning/tree/master/0853-car-fleet) |
+| [1021-remove-outermost-parentheses](https://github.com/nakshjain/DSA-Learning/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -309,4 +311,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nakshjain/DSA-Learning/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/nakshjain/DSA-Learning/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
