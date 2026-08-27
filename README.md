@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nakshjain/DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/nakshjain/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/nakshjain/DSA-Learning/tree/master/0295-find-median-from-data-stream) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nakshjain/DSA-Learning/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/nakshjain/DSA-Learning/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/nakshjain/DSA-Learning/tree/master/0079-word-search) |
 | [0290-word-pattern](https://github.com/nakshjain/DSA-Learning/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nakshjain/DSA-Learning/tree/master/0345-reverse-vowels-of-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/nakshjain/DSA-Learning/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/nakshjain/DSA-Learning/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/nakshjain/DSA-Learning/tree/master/1768-merge-strings-alternately) |
