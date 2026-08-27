@@ -1,20 +1,25 @@
 class Solution {
-private:
-    int helper(vector<vector<int>>& dp, string& text1, string& text2, int index1, int index2){
-        if(index1<0 || index2<0) return 0;
-        if(dp[index1][index2]!=-1){
-            return dp[index1][index2];
-        }
-        if(text1[index1]==text2[index2]){
-            return dp[index1][index2] = 1 + helper(dp, text1, text2, index1-1, index2-1);
-        }
-        return dp[index1][index2] = max(helper(dp, text1, text2, index1-1, index2), helper(dp, text1, text2, index1, index2-1));
-    }
 public:
     int longestCommonSubsequence(string text1, string text2) {
-        int n = text1.size();
-        int m = text2.size();
-        vector<vector<int>> dp(n, vector<int>(m, -1));
-        return helper(dp, text1, text2, text1.size()-1, text2.size()-1);
+        int n=text1.size();
+        int m=text2.size();
+        vector<vector<int>> dp(n, vector<int>(m, 0));
+        dp[0][0] = text1[0]==text2[0];
+        for(int i=1;i<n;i++){
+            if(text1[i]==text2[0] || dp[i-1][0]) dp[i][0]=1;
+        }
+        for(int j=1;j<m;j++){
+            if(text1[0]==text2[j] || dp[0][j-1]) dp[0][j]=1;
+        }
+        for(int i=1;i<n;i++){
+            for(int j=1;j<m;j++){
+                if(text1[i]==text2[j]){
+                    dp[i][j]=dp[i-1][j-1]+1;
+                } else{
+                    dp[i][j]=max(dp[i-1][j], dp[i][j-1]);
+                }
+            }
+        }
+        return dp[n-1][m-1];
     }
 };
