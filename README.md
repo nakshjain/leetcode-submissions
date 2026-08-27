@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/nakshjain/DSA-Learning/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/nakshjain/DSA-Learning/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nakshjain/DSA-Learning/tree/master/0040-combination-sum-ii) |
+| [0054-spiral-matrix](https://github.com/nakshjain/DSA-Learning/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/nakshjain/DSA-Learning/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nakshjain/DSA-Learning/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nakshjain/DSA-Learning/tree/master/0090-subsets-ii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nakshjain/DSA-Learning/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/nakshjain/DSA-Learning/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/nakshjain/DSA-Learning/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/nakshjain/DSA-Learning/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/nakshjain/DSA-Learning/tree/master/0733-flood-fill) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nakshjain/DSA-Learning/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/nakshjain/DSA-Learning/tree/master/1929-concatenation-of-array) |
 ## Longest Common Subsequence
 |  |
