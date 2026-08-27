@@ -12,14 +12,18 @@ public:
                 ans.push_back(matrix[i][right]);
             }
             right--;
-            for(int i=right;i>=left && top<=bottom;i--){
-                ans.push_back(matrix[bottom][i]);
+            if(top<=bottom){
+                for(int i=right;i>=left;i--){
+                    ans.push_back(matrix[bottom][i]);
+                }
+                bottom--;
             }
-            bottom--;
-            for(int i=bottom;i>=top && left<=right;i--){
-                ans.push_back(matrix[i][left]);
+            if(left<=right){
+                for(int i=bottom;i>=top && left<=right;i--){
+                    ans.push_back(matrix[i][left]);
+                }
+                left++;
             }
-            left++;
         }
         return ans;
     }
