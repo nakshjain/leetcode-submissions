@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nakshjain/DSA-Learning/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/nakshjain/DSA-Learning/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/nakshjain/DSA-Learning/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/nakshjain/DSA-Learning/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/nakshjain/DSA-Learning/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/nakshjain/DSA-Learning/tree/master/0733-flood-fill) |
 | [0853-car-fleet](https://github.com/nakshjain/DSA-Learning/tree/master/0853-car-fleet) |
@@ -339,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/nakshjain/DSA-Learning/tree/master/1143-longest-common-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/nakshjain/DSA-Learning/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
