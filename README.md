@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/nakshjain/DSA-Learning/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/nakshjain/DSA-Learning/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nakshjain/DSA-Learning/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/nakshjain/DSA-Learning/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/nakshjain/DSA-Learning/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/nakshjain/DSA-Learning/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nakshjain/DSA-Learning/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/nakshjain/DSA-Learning/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/nakshjain/DSA-Learning/tree/master/0146-lru-cache) |
 | [0290-word-pattern](https://github.com/nakshjain/DSA-Learning/tree/master/0290-word-pattern) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nakshjain/DSA-Learning/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/nakshjain/DSA-Learning/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/nakshjain/DSA-Learning/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nakshjain/DSA-Learning/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -344,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/nakshjain/DSA-Learning/tree/master/0643-maximum-average-subarray-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nakshjain/DSA-Learning/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
